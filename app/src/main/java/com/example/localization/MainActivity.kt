@@ -12,6 +12,6 @@ class MainActivity : AppCompatActivity() {
 
 
 // Anpassa appen till svenska och engelska
-// 1. anpassa xml - Layout
+// 1. anpassa xml - Layout x
 // 2. anpassa kotlinfil
 // 3. anpassa bilder
