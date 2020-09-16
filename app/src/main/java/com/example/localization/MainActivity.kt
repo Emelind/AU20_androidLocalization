@@ -9,3 +9,9 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
 }
+
+
+// Anpassa appen till svenska och engelska
+// 1. anpassa xml - Layout
+// 2. anpassa kotlinfil
+// 3. anpassa bilder
